@@ -1,0 +1,14 @@
+{
+  "name": "atmedia-prettier-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stephensauceda/atmedia-prettier-config.git",
+  "author": "Stephen Sauceda <contact@stephensauceda.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": ">= 2"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
