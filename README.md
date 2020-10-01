@@ -1,0 +1,1 @@
+# atmedia-prettier-config
